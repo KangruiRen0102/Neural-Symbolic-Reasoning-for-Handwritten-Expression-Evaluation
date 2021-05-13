@@ -1,0 +1,2 @@
+addition([('train(232)')], [('train(36804)')], 13, 8).
+addition([('train(48533)')], [('train(81)')], 5, 0).
